@@ -1,0 +1,16 @@
+###REPORT NUMBER : 1
+	BY : 1000-admin
+	Asset : 2000-MSI gl63
+	Cause of Trouble :
+		blue death screen
+	Repair Method :
+		reinstall windows
+Created at 2020/08/16 18:48:48###
+###REPORT NUMBER : 2
+	BY : 1000-admin
+	Asset : 3000-SW 101 NE
+	Cause of Trouble :
+		2 ports not working
+	Repair Method :
+		check port cabels
+Created at 2020/08/16 19:26:45###

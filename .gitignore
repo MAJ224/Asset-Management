@@ -1,0 +1,8 @@
+# NetBeans generated files
+/[Bb]uild/
+/[Nn]bproject/
+
+# Other ignored files
+build.xml
+json-simple-1.1.jar
+manifest.mf
